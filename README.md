@@ -7,4 +7,4 @@ Actividad sobre los 8 hack
 # Hack 5 https://github.com/Benyamin50/git_h_5
 # Hack 6 https://github.com/Benyamin50/git_h_6
 # Hack 7 https://github.com/Benyamin50/git_h_7
-Hack 8 https://github.com/Benyamin50/git_h_8
+# Hack 8 https://github.com/Benyamin50/git_h_8
